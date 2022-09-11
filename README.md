@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ika</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikanurfitriani&label=Profile%20views&color=0e75b6&style=flat" alt="ikanurfitriani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ikanurfitriani_" target="blank"><img src="https://img.shields.io/twitter/follow/ikanurfitriani_?logo=twitter&style=for-the-badge" alt="ikanurfitriani_" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://rpubs.com/ikanurfitriani](https://rpubs.com/ikanurfitriani)
