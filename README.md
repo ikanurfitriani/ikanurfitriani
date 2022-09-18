@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ika</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikanurfitriani&label=Profile%20views&color=0e75b6&style=flat" alt="ikanurfitriani" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Analytics**, **Data Science** and **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
