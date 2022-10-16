@@ -27,7 +27,7 @@
 
 <p align="center">
 <a href="https://github.com/ikanurfitriani">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ikanurfitriani&amp;theme=vision-friendly-dark&amp;hide_border=true&show_icons=true" alt="Johann&#39;s GitHub stats" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ikanurfitriani&amp;theme=vision-friendly-dark&amp;hide_border=true&show_icons=true" alt="Ika's GitHub stats" />
     <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikanurfitriani&theme=vision-friendly-dark&layout=compact&no-frame=true&hide_border=true" />
 </a>
 </p>
