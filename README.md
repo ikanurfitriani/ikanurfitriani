@@ -26,8 +26,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=ikanurfitriani&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=false&count_private=true" alt="Ika's github stats" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="41%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikanurfitriani&layout=compact&theme=github_dark&hide_border=false" />
+<a href="https://github.com/ikanurfitriani"><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=ikanurfitriani&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=false&count_private=true" alt="Ika's github stats" /></a>
+<a href="https://github.com/ikanurfitriani"><img width="41%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikanurfitriani&layout=compact&theme=github_dark&hide_border=false" />
 </a>
 </a>
 </p>
