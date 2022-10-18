@@ -24,10 +24,3 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>   
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>   
 </p>
-
-<p align="center">
-<a href="https://github.com/ikanurfitriani"><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=ikanurfitriani&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=false&count_private=true" alt="Ika's github stats" /></a>
-<a href="https://github.com/ikanurfitriani"><img width="41%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikanurfitriani&layout=compact&theme=github_dark&hide_border=false" />
-</a>
-</a>
-</p>
