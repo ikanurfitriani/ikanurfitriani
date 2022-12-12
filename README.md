@@ -25,6 +25,26 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>   
 </p>
 
+<h3 align="left">Latest Projects</h3>
+<table>
+    <tr>
+      <td><b>Project</b></td>
+      <td><b>Tools</b></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/ikanurfitriani/Final-Project1-LinearRegression" target="_blank">Cab/Taxi Prices Prediction</b></td>
+      <td><b>Python</b></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/ikanurfitriani/Final-Project2-LogisticRegression-SVM" target="_blank">Rainfall Prediction in Australia</b></td>
+      <td><b>Python</b></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/ikanurfitriani/Final-Project3-EnsembleMethod-RF" target="_blank">Heart Failure Prediction</b></td>
+      <td><b>Python</b></td>
+    </tr>
+</table><br>
+
 <p align="center">
 <a href="https://github.com/ikanurfitriani"><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=ikanurfitriani&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="Ika's github stats" /></a>
 <a href="https://github.com/ikanurfitriani"><img width="41%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikanurfitriani&layout=compact&theme=github_dark&hide_border=false" /> </a>
