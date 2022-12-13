@@ -51,6 +51,10 @@
       <td><b><a href="https://github.com/ikanurfitriani/Final-Project3-EnsembleMethod-RF" target="_blank">Heart Failure Prediction</b></td>
       <td><b>Python</b></td>
     </tr>
+    <tr>
+      <td><b><a href="https://github.com/ikanurfitriani/Final-Project4-Clustering" target="_blank">Customer Segmentation</b></td>
+      <td><b>Python</b></td>
+    </tr>
 </table><br>
 
 <p align="center">
