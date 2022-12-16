@@ -32,6 +32,14 @@
       <td><b>Tools</b></td>
     </tr>
     <tr>
+      <td><b><a href="https://github.com/ikanurfitriani/Mini-Project-using-Python" target="_blank">Mini Project 1</b></td>
+      <td><b>Python</b></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/ikanurfitriani/Mini-Project-using-Java" target="_blank">Mini Project 2</b></td>
+      <td><b>Java</b></td>
+    </tr>
+    <tr>
       <td><b><a href="https://github.com/ikanurfitriani/BMI_Calculator" target="_blank">BMI Calculator</b></td>
       <td><b>HTML, CSS, JavaScript</b></td>
     </tr>
