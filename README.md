@@ -38,10 +38,6 @@
       <td><b>Java</b></td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/ikanurfitriani/BMI_Calculator" target="_blank">BMI Calculator</b></td>
-      <td><b>HTML, CSS, JavaScript</b></td>
-    </tr>
-    <tr>
       <td><b><a href="https://github.com/ikanurfitriani/Top-1000-Instagram-Influencer-2022" target="_blank">Top 1000 Instagram Influencer Profiles 2022</b></td>
       <td><b>Python</b></td>
     </tr>
