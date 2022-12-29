@@ -41,6 +41,10 @@
       <td><b><a href="https://github.com/ikanurfitriani/Top-1000-Instagram-Influencer-2022" target="_blank">Top 1000 Instagram Influencer Profiles 2022</b></td>
       <td><b>Python</b></td>
     </tr>
+    <tr>
+      <td><b><a href="https://github.com/ikanurfitriani/IPL_2008-2020_and_2022" target="_blank">IPL 2008-2020 and 2022</b></td>
+      <td><b>Python</b></td>
+    </tr>
 </table><br>
 
 <p align="center">
