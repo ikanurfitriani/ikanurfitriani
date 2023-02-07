@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ika</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikanurfitriani&label=Profile%20Views&color=0e75b6&style=flat" alt="ikanurfitriani" /> </p>
 
-- 🎓 I’m currently studying **Informatics** at Indonesia University of Digital Technology
+- 🎓 I’m currently studying **Informatics** at **Indonesia University of Digital Technology**
 - 💻 I’m interested in **Data Analytics**, **Data Science** and **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
@@ -49,5 +49,5 @@
 
 <p align="center">
 <a href="https://github.com/ikanurfitriani"><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=ikanurfitriani&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="Ika's github stats" /></a>
-<a href="https://github.com/ikanurfitriani"><img width="41%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikanurfitriani&layout=compact&theme=github_dark&hide_border=false" /> </a>
+<a href="https://github.com/ikanurfitriani"><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikanurfitriani&layout=compact&theme=github_dark&hide_border=false" /> </a>
 </p>
