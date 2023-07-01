@@ -45,4 +45,4 @@
       <td><b><a href="https://github.com/ikanurfitriani/IPL_2008-2020_and_2022" target="_blank">IPL 2008-2020 and 2022</b></td>
       <td><b>Python</b></td>
     </tr>
-</table><br>
+</table>
