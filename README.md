@@ -46,8 +46,3 @@
       <td><b>Python</b></td>
     </tr>
 </table><br>
-
-<p align="center">
-<a href="https://github.com/ikanurfitriani"><img width="52%" align="center" src="https://github-readme-stats.vercel.app/api?username=ikanurfitriani&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="Ika's github stats" /></a>
-<a href="https://github.com/ikanurfitriani"><img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikanurfitriani&layout=compact&theme=github_dark&hide_border=false" /> </a>
-</p>
