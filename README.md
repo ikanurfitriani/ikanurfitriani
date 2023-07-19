@@ -40,6 +40,10 @@
       <td><b>Java</b></td>
     </tr>
     <tr>
+      <td><b><a href="https://github.com/ikanurfitriani/Mini-Project-using-Ruby" target="_blank">Mini Project 3</b></td>
+      <td><b>Ruby</b></td>
+    </tr>
+    <tr>
       <td><b><a href="https://github.com/ikanurfitriani/Top-1000-Instagram-Influencer-2022" target="_blank">Top 1000 Instagram Influencer Profiles 2022</b></td>
       <td><b>Python</b></td>
     </tr>
