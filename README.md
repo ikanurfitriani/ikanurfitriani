@@ -21,31 +21,3 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.ruby-lang.org/id/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
-
-<h3 align="left">My Project:</h3>
-<table>
-    <tr>
-      <td><b>Project</b></td>
-      <td><b>Tools</b></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/ikanurfitriani/Mini-Project-using-Python" target="_blank">Mini Project 1</b></td>
-      <td><b>Python</b></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/ikanurfitriani/Mini-Project-using-Java" target="_blank">Mini Project 2</b></td>
-      <td><b>Java</b></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/ikanurfitriani/Mini-Project-using-Ruby" target="_blank">Mini Project 3</b></td>
-      <td><b>Ruby</b></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/ikanurfitriani/Top-1000-Instagram-Influencer-2022" target="_blank">Top 1000 Instagram Influencer Profiles 2022</b></td>
-      <td><b>Python</b></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/ikanurfitriani/IPL_2008-2020_and_2022" target="_blank">IPL 2008-2020 and 2022</b></td>
-      <td><b>Python</b></td>
-    </tr>
-</table>
