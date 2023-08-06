@@ -9,9 +9,6 @@
 <a href="https://instagram.com/ikanurfitriani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="real_ikan" height="30" width="40" /></a>
 <a href="https://twitter.com/ikanurfitriani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikanurfitriani_" height="30" width="40" /></a>
 <a href="https://facebook.com/ika.nurfitriani.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@ikanurfitriani" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/ikanurfitriani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@ikanurfitriani" height="30" width="40" /></a>
-<a href="https://medium.com/@ikanurfitriani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ikanurfitriani" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/17wo251yi63ji18yxahoucuxc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="@ikanurfitriani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
