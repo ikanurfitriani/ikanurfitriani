@@ -29,7 +29,7 @@
 <table>
     <tr>
       <td><b>Project</b></td>
-      <td><b>Tools</b></td>
+      <td><b>Languages</b></td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/ikanurfitriani/Mini-Project-using-Python" target="_blank">Mini Project 1</b></td>
