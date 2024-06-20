@@ -2,7 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikanurfitriani&label=Profile%20Views&color=0e75b6&style=flat" alt="ikanurfitriani" /> </p>
 
 * 🌍  I'm based in Indonesia. <br>
-* 🖥️  See my portfolio at the link in my bio. <br>
 * 🧠  I'm learning **Data Analytic**, **Big Data**, **Data Science**, **Machine Learning** and **AI**. <br>
 
 ## 🔗 Connect with Me
