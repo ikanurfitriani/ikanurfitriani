@@ -4,7 +4,3 @@
 * 🌍 I'm based in Indonesia. <br>
 * 🧠 I'm learning Data Analytics, Big Data, Data Science, Machine Learning and AI. <br>
 * 🤝 You can find all my social media accounts at the links provided in my bio. Feel free to ask or connect with me. <br>
-
-## 📊 GitHub Statistics
-<p align="center">
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikanurfitriani&layout=compact&theme=github_dark_blue&hide_border=false" alt="ikanurfitriani" /></p>
