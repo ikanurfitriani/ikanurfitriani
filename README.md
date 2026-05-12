@@ -6,4 +6,8 @@
 * 🤝 You can find all my social media accounts at the links provided in my bio. Feel free to ask or connect with me. <br>
 
 ## 📊 GitHub Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=ikanurfitriani&theme=github-dark-dimmed)](https://git.io/streak-stats)
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=ikanurfitriani&theme=github-dark-dimmed" alt="GitHub Streak" />
+    </a>
+</p>
